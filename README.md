@@ -1,2 +1,2 @@
-# AI-Exam-Cheating-Detection
-AI-based system to detect cheating behavior using YOLOv8 and CNN
+# Real-Time Flood Evacuation Route Optimizer
+Smart AI system for real-time flood evacuation route planning and safety optimization.
