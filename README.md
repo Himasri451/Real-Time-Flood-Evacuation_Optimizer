@@ -81,7 +81,12 @@ Traditional systems rely on manual monitoring and static evacuation plans, which
 ### 📈 Performance
 - mAP@0.5: ~0.74  
 - Precision: ~0.78  
-- Recall: ~0.71  
+- Recall: ~0.71
+-
+-<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c9fcd0e-7825-4228-90ac-275280a1f554" />
+
+- <img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/3c43fe07-6cf2-4fc0-bb39-33c6eca15bea" />
+
 
 ---
 
